@@ -2,7 +2,7 @@
 
 session_start();
 
-$db = mysqli_connect('localhost','root','','ideamagix');
+$db = mysqli_connect('localhost','xxx','xxx','ideamagix');
 $username ="";
 $email = "";
 $errors = array();
